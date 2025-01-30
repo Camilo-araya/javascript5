@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+  
+
+   
+}
+
+.seccion-lista{
+   
+    width: 400px;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px, 10px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.seccion-lista button{
+    list-style-type: none;
+    padding: 2px;
+    margin: 5px;
+    color: black;
+    
+
+}
+
